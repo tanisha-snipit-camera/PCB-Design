@@ -1,0 +1,7 @@
+(kicad_sch (version 20250114) (generator "eeschema")
+  (uuid "1e55c33b-3d2e-4e2d-80af-164b73b9e998")
+  (paper "A4")
+  (title_block (title "Snipit V1 Camera Motherboard") (rev "A - starter") (comment 1 "Unpopulated schematic; NOT fabrication-ready"))
+  (lib_symbols)
+  (sheet_instances (path "/" (page "1")))
+)
